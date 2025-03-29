@@ -8,6 +8,7 @@ Software: Google Colab
 Python Libraries: Numpy,Matplotlib
 
 PROGRAM:
+~~~~
 #Natural sampling
 import numpy as np
 import matplotlib.pyplot as plt
@@ -67,7 +68,7 @@ plt.legend()
 plt.grid(True)
 plt.tight_layout()
 plt.show()
-
+~~~~
 OUTPUT WAVEFORM:
 ![DC exp-1(1)](https://github.com/user-attachments/assets/8ec27dc1-e51d-42a5-8202-da00b362b22f)
 
